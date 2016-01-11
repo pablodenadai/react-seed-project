@@ -22,6 +22,7 @@ may not fit your project.
 - [x] [Redux Simple Router](https://github.com/rackt/redux-simple-router)
 - [x] TodoMVC example
 - [ ] Redux effects
+- [ ] Unit tests
 
 ## Setup
 
